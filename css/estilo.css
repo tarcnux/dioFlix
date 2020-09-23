@@ -59,9 +59,29 @@ header .container {
 }
 
 .filme-principal .descricao {
+    margin-top: 10px;
     margin-bottom: 40px;
 }
 
 .titulo {
     font-size: 40px;
+    margin-top: 15%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Botões*/
+.botao {
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: #FFF;
+    padding: 15px 30px;
+    margin-right: 8px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 300ms ease all;
+}
+
+.botao:hover {
+    background-color: #FFF;
+    color: var(--preto);
 }
