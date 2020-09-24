@@ -103,5 +103,12 @@ OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css
 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css
 */
 
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+
 
 
