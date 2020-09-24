@@ -1,0 +1,20 @@
+@media screen and (max-width: 800px) {
+    header .container {
+        flex-direction: column;
+    }
+
+    header .logo {
+        font-size: 24px;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 190px;
+        height: 60px;
+    }
+
+    .filme-principal {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+}
